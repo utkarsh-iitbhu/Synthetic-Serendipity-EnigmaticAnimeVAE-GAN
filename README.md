@@ -36,14 +36,14 @@ This will start the FastAPI server, and you can access the web application at ht
 1. Access the home page of the web application at http://localhost:8000.
 2. Click on the "Choose File" button to upload an anime image for reconstruction.
 
-3. ![image](https://github.com/utkarsh-iitbhu/Synthetic-Serendipity-EnigmaticAnimeVAE-GAN/assets/84759422/4d1596f7-517e-4961-ba53-d39b6fa95268)
+![image](https://github.com/utkarsh-iitbhu/Synthetic-Serendipity-EnigmaticAnimeVAE-GAN/assets/84759422/4d1596f7-517e-4961-ba53-d39b6fa95268)
 
-4. Click the "Upload" button to submit the image.
+3. Click the "Upload" button to submit the image.
 
-5. ![image](https://github.com/utkarsh-iitbhu/Synthetic-Serendipity-EnigmaticAnimeVAE-GAN/assets/84759422/fa317da1-41e0-4e94-9f2c-a33757577155)
+![image](https://github.com/utkarsh-iitbhu/Synthetic-Serendipity-EnigmaticAnimeVAE-GAN/assets/84759422/fa317da1-41e0-4e94-9f2c-a33757577155)
 
-6. Wait for the image to be processed and view the original and reconstructed images side by side.
+4. Wait for the image to be processed and view the original and reconstructed images side by side.
 
-7. ![image](https://github.com/utkarsh-iitbhu/Synthetic-Serendipity-EnigmaticAnimeVAE-GAN/assets/84759422/5a3c925a-f103-4ebd-a2f9-3ba61a364860)
+![image](https://github.com/utkarsh-iitbhu/Synthetic-Serendipity-EnigmaticAnimeVAE-GAN/assets/84759422/5a3c925a-f103-4ebd-a2f9-3ba61a364860)
 
-8. Please note that the model is trained on anime images and may not work as expected with other images.
+5. Please note that the model is trained on anime images and may not work as expected with other images.
