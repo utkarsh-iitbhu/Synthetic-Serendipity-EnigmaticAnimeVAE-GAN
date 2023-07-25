@@ -7,7 +7,7 @@ This is a web application that uses an Anime VAE-GAN model to reconstruct images
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/anime-vae-gan-webapp.git
+git clone https://github.com/utkarsh-iitbhu/anime-vae-gan-webapp.git
 cd anime-vae-gan-webapp
 ```
 
